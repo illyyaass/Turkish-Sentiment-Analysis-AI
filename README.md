@@ -28,5 +28,5 @@ You can run this project directly in Google Colab:
 [Link to your Colab file here]
 
 ---
-*Developed by [Smitk Hna]*
+*Developed by [ILYASS ELMAMOUNI]*
 <img width="1333" height="560" alt="Screenshot 2025-11-28 232857" src="https://github.com/user-attachments/assets/e4606c73-744a-4dae-9475-22d8bfacc041" />
