@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilisao/Turkish-Sentiment-Analysis-AI/blob/main/Sentiment_Analiz.ipynb)
+
 # 🎬 Turkish Movie Sentiment Analysis AI
 
 ## 📌 Project Overview
